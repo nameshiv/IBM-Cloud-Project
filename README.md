@@ -34,11 +34,16 @@ Web browser & internet
 CSV dataset of electrical parameters
 
 # Libraries Used
-autoai-libs==2.0.0
-lale==0.8.0
-pandas
-numpy
-scikit-learn
+autoai-libs==2.0.0  
+
+lale==0.8.0  
+
+pandas  
+
+numpy  
+
+scikit-learn  
+
 
 # Algorithm & Deployment
   Algorithm Selection:- Random Forest Classifier selected via IBM AutoAI for its superior accuracy and multi-class classification capabilities.
