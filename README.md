@@ -12,7 +12,9 @@ line-to-line, or three-phase faults). The objective is to enable rapid and accur
 identification, which is crucial for maintaining power grid stability and reliability. 
 
 # Proposed Solution:-
-The system addresses the challenge of fault classification in power distribution using machine learning. Key components include:
+The system addresses the challenge of fault classification in power distribution using machine learning.  
+Key components include:    
+
 Data Collection: Voltage and current phasors under normal and fault conditions from substations or simulations.  
 
 Preprocessing: Data cleaning and feature engineering.  
