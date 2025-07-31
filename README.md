@@ -1,6 +1,8 @@
 # IBM Cloud
-1.Introduction to RAG Lab
-2.Final Project-> Power System Fault Detection Using Machine Learning on IBM Cloud
+1.Introduction to RAG Lab  
+
+2.Final Project-> Power System Fault Detection Using Machine Learning on IBM Cloud  
+
 
 # Problem Statement:- Design a machine learning model to detect and classify different types 
 of faults in a power distribution system. Using electrical measurement data (e.g., 
