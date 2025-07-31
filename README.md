@@ -13,13 +13,19 @@ identification, which is crucial for maintaining power grid stability and reliab
 
 # Proposed Solution:-
 The system addresses the challenge of fault classification in power distribution using machine learning. Key components include:
-Data Collection: Voltage and current phasors under normal and fault conditions from substations or simulations.
-Preprocessing: Data cleaning and feature engineering.
-ML Model: Classification model (e.g., Random Forest) trained on electrical parameters and external factors like weather.
-Deployment: Hosted on IBM Cloud Lite, using Watson Studio and Watson Machine Learning.
-Evaluation: Accuracy, Precision, Recall, F1-Score metrics.
+Data Collection: Voltage and current phasors under normal and fault conditions from substations or simulations.  
 
-System Development Approach:-
+Preprocessing: Data cleaning and feature engineering.  
+
+ML Model: Classification model (e.g., Random Forest) trained on electrical parameters and external factors like weather.  
+
+Deployment: Hosted on IBM Cloud Lite, using Watson Studio and Watson Machine Learning.  
+
+Evaluation: Accuracy, Precision, Recall, F1-Score metrics.  
+
+
+System Development Approach:-  
+
 # Requirements
 IBM Cloud account with access to Watson Studio and AutoAI
 Web browser & internet
