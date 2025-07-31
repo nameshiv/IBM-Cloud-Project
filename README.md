@@ -24,7 +24,6 @@ Deployment: Hosted on IBM Cloud Lite, using Watson Studio and Watson Machine Lea
 Evaluation: Accuracy, Precision, Recall, F1-Score metrics.  
 
 
-System Development Approach:-  
 
 # Requirements
 IBM Cloud account with access to Watson Studio and AutoAI
