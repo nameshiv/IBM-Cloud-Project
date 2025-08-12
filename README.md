@@ -10,7 +10,7 @@ This repository contains:
    - **LAB 2:** *Granite_Docling_RAG.ipnyb*  
 
 
-# Project Description:  
+*Project Description:*
 
 
 # Problem Statement:-   
