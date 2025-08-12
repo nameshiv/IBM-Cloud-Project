@@ -2,7 +2,7 @@
 
 This repository contains:
 
-1. **Final Project → Power System Fault Detection Using Machine Learning on IBM Cloud**  
+1. **Final Project → Power System Fault Detection Using Machine Learning on IBM Cloud(/Ibm-Cloud_Project/Project_Final.pdf)**  
 2. **Jupyter Notebook(Power_System_ML_Project.ipnyb)**  
 3. **Introduction to RAG Lab**  
    Located in [`recipes/RAG`](recipes/RAG) and includes:
